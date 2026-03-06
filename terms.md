@@ -2,6 +2,9 @@
 layout: default
 title: Правила пользования / Условия использования
 ---
+
+<a href="/" class="back-button">Назад на главную</a>
+
 Текст будет опубликован в ближайшее время
 
 <footer style="margin-top: 3rem; padding: 1.5rem 0; text-align: center; font-size: 0.9rem; color: #666; border-top: 1px solid #ddd; background-color: #f9f9f9;">
