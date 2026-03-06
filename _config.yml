@@ -1,9 +1,10 @@
 title: SlonPrivacy
 description: Публичная документация
-remote_theme: pages-themes/cayman@v0.2.0
-baseurl: /legal
-        
+url: "https://legal.slonprivacy.app"
+baseurl: ""
+
 plugins:
-  - jekyll-remote-theme
-  
+  - jekyll-feed
+  - jekyll-sitemap
+
 show_downloads: false
