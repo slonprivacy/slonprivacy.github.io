@@ -1,6 +1,8 @@
-title: slonprivacy
+title: SlonPrivacy
 description: Юридическая информация
 remote_theme: pages-themes/cayman@v0.2.0
-show_downloads: true          
+        
 plugins:
   - jekyll-remote-theme
+  
+show_downloads: true  
