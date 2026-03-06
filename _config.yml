@@ -1,6 +1,8 @@
 title: slonprivacy
 description: Юридическая информация
-remote_theme: pages-themes/minimal@main
+remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: true          
 markdown: kramdown
 highlighter: rouge
+plugins:
+  - jekyll-remote-theme
