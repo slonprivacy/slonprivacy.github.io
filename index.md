@@ -2,7 +2,7 @@
 layout: default          
 title: SlonPrivacy
 ---
-{{ site.description }}
+
 
 - [Публичная оферта](/offer)
 - [Правила пользования](/terms)
