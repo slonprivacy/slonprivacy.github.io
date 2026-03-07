@@ -2,7 +2,7 @@
 layout: default
 title: Публичная оферта
 lang: ru
-permalink: /offer
+permalink: /ru/offer
 ---
 
 <b>ПУБЛИЧНАЯ ОФЕРТА</b>

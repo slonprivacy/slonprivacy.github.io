@@ -2,7 +2,7 @@
 layout: default
 title: Политика конфиденциальности
 lang: ru
-permalink: /privacy
+permalink: /ru/privacy
 ---
 
 Текст будет опубликован в ближайшее время.

@@ -25,20 +25,30 @@
   <div class="container">
     <header class="site-header">
       <div class="header-content">
-        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/{% else %}{{ site.baseurl }}/{% endif %}" class="site-logo">
+        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/{% else %}{{ site.baseurl }}/ru/{% endif %}" class="site-logo">
           <img src="{{ site.baseurl }}/assets/img/logo.png" alt="" class="logo-img">
           {{ site.title }}
         </a>
         <div class="header-actions">
-          <div class="lang-switcher">
-            {% if page.lang == 'en' %}
-              <a href="{{ site.baseurl }}{{ page.url | replace: '/en/', '/' }}" class="lang-link">RU</a>
-              <span class="lang-active">EN</span>
-            {% else %}
-              <span class="lang-active">RU</span>
-              <a href="{{ site.baseurl }}/en{{ page.url }}" class="lang-link">EN</a>
-            {% endif %}
+          <div class="dropdown" id="lang-dropdown">
+            <button class="dropdown-trigger" aria-label="Select language">
+              {% if page.lang == 'en' %}
+                <span class="flag-icon">🇺🇸</span> English
+              {% else %}
+                <span class="flag-icon">🇷🇺</span> Русский
+              {% endif %}
+              <svg class="chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </button>
+            <div class="dropdown-menu">
+              <a href="{{ site.baseurl }}/ru{{ page.url | replace: '/en/', '/' | replace: '/ru/', '/' }}" class="dropdown-item {% if page.lang != 'en' %}active{% endif %}">
+                <span class="flag-icon">🇷🇺</span> Русский
+              </a>
+              <a href="{{ site.baseurl }}/en{{ page.url | replace: '/ru/', '/' | replace: '/en/', '/' }}" class="dropdown-item {% if page.lang == 'en' %}active{% endif %}">
+                <span class="flag-icon">🇺🇸</span> English
+              </a>
+            </div>
           </div>
+
           <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
             <svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="4.22" x2="19.78" y2="5.64"></line></svg>
             <svg class="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
@@ -48,8 +58,8 @@
     </header>
 
     <main class="site-content">
-      {% if page.url != "/" and page.url != "/index.html" and page.url != "/en/" and page.url != "/en/index.html" %}
-        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/{% else %}{{ site.baseurl }}/{% endif %}" class="back-link">
+      {% if page.url != "/" and page.url != "/index.html" and page.url != "/en/" and page.url != "/en/index.html" and page.url != "/ru/" and page.url != "/ru/index.html" %}
+        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/{% else %}{{ site.baseurl }}/ru/{% endif %}" class="back-link">
           {% if page.lang == 'en' %}← Back to home{% else %}← На главную{% endif %}
         </a>
       {% endif %}
@@ -67,12 +77,24 @@
   </div>
 
   <script>
+    // Theme toggle
     const themeToggle = document.getElementById('theme-toggle');
     themeToggle.addEventListener('click', () => {
       const currentTheme = document.documentElement.getAttribute('data-theme');
       const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
       document.documentElement.setAttribute('data-theme', newTheme);
       localStorage.setItem('theme', newTheme);
+    });
+
+    // Language dropdown
+    const dropdown = document.getElementById('lang-dropdown');
+    dropdown.addEventListener('click', (e) => {
+      e.stopPropagation();
+      dropdown.classList.toggle('open');
+    });
+
+    document.addEventListener('click', () => {
+      dropdown.classList.remove('open');
     });
   </script>
 </body>
