@@ -5,9 +5,15 @@
       <p class="email"><a href="mailto:info_slonprivacy@proton.me">info_slonprivacy@proton.me</a></p>
     </div>
     <div class="footer-col footer-links">
-      <a href="{{ site.baseurl }}/offer">Оферта</a>
-      <a href="{{ site.baseurl }}/terms">Правила пользования</a>
-      <a href="{{ site.baseurl }}/privacy">Политика конфиденциальности</a>
+      {% if page.lang == 'en' %}
+        <a href="{{ site.baseurl }}/en/offer">Public Offer</a>
+        <a href="{{ site.baseurl }}/en/terms">Terms of Use</a>
+        <a href="{{ site.baseurl }}/en/privacy">Privacy Policy</a>
+      {% else %}
+        <a href="{{ site.baseurl }}/offer">Оферта</a>
+        <a href="{{ site.baseurl }}/terms">Правила пользования</a>
+        <a href="{{ site.baseurl }}/privacy">Политика конфиденциальности</a>
+      {% endif %}
     </div>
   </div>
   <div class="footer-bottom">

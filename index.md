@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Документация
+lang: ru
 ---
 
 - [Публичная оферта]({{ site.baseurl }}/offer)
