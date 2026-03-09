@@ -1,19 +1,26 @@
 <footer class="site-footer">
   <div class="footer-grid">
     <div class="footer-col">
-      <p class="copyright">© {{ 'now' | date: "%Y" }} {{ site.title }}</p>
-      <p class="email"><a href="mailto:info_slonprivacy@proton.me">info_slonprivacy@proton.me</a></p>
+      <p class="copyright">© {{ 'now' | date: "%Y" }} {{ site.title | default: "SLON Privacy" }}</p>
+      <p class="email">
+        <a href="mailto:info_slonprivacy@proton.me">info_slonprivacy@proton.me</a>
+      </p>
     </div>
+
     <div class="footer-col footer-links">
-      {% if page.lang == 'en' %}
-        <a href="{{ site.baseurl }}/en/offer">Public Offer</a>
-        <a href="{{ site.baseurl }}/en/privacy">Privacy Policy</a>
-      {% else %}
-        <a href="{{ site.baseurl }}/offer">Оферта</a>
-        <a href="{{ site.baseurl }}/privacy">Политика конфиденциальности</a>
-      {% endif %}
+    
+      <a href="{{ site.baseurl }}/{{ page.lang | default: 'ru' }}/offer">
+        {% if page.lang == 'en' %}Public Offer{% else %}Оферта{% endif %}
+      </a>
+
+      <span class="separator">•</span>
+      <a href="{{ site.baseurl }}/{{ page.lang | default: 'ru' }}/privacy">
+        {% if page.lang == 'en' %}Privacy Policy{% else %}Политика конфиденциальности{% endif %}
+      </a>
+
     </div>
   </div>
+
   <div class="footer-bottom">
     <small>Powered by GitHub Pages</small>
   </div>
