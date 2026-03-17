@@ -136,7 +136,7 @@ a:hover {
 .logo-img {
   height: 22px;
   width: auto;
-  filter: var(--logo-filter);
+  filter: none;
   transition: filter 0.3s ease;
 }
 
