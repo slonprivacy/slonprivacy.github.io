@@ -10,7 +10,7 @@ Effective Date: March 6, 2026
 
 <b>1. General Provisions</b>
 
-1.1. This Privacy Policy defines the procedure and conditions for processing personal data that the <b>Offeror</b> (Individual Entrepreneur Salomein Evgeny Sergeevich, OGRNIP 321774600494241, INN 421713484462, contact email: <a href="mailto:info_slonprivacy@proton.me">info_slonprivacy@proton.me</a>) receives from Users when using the Telegram bot <code>@slon_privacy_bot</code> (hereinafter — the Bot) and providing Services under the public offer agreement (hereinafter — the Offer).
+1.1. This Privacy Policy defines the procedure and conditions for processing personal data that the <b>Offeror</b> (Individual Entrepreneur Salomein Evgeny Sergeevich, OGRNIP 321774600494241, INN 421713484462, contact email: <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>) receives from Users when using the Telegram bot <code>@slon_privacy_bot</code> (hereinafter — the Bot) and providing Services under the public offer agreement (hereinafter — the Offer).
 
 1.2. The Policy is developed in accordance with the requirements of Federal Law No. 152-FZ dated July 27, 2006 “On Personal Data” and other regulatory acts of the Russian Federation in the field of personal data protection.
 
@@ -120,7 +120,7 @@ In accordance with the legislation of the Russian Federation, the User has the r
 • appeal the actions of the Offeror to Roskomnadzor or in court.
 
 Requests shall be sent to the email address:  
-<a href="mailto:info_slonprivacy@proton.me">info_slonprivacy@proton.me</a>
+<a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>
 
 The request review period is up to 10 business days.
 
@@ -140,4 +140,4 @@ Individual Entrepreneur
 Salomein Evgeny Sergeevich  
 OGRNIP 321774600494241  
 INN 421713484462  
-email: <a href="mailto:info_slonprivacy@proton.me">info_slonprivacy@proton.me</a>
+email: <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>
