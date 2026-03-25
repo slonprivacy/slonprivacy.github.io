@@ -251,7 +251,7 @@ The refusal of third-party services to serve users of the Services is not a viol
 
 Disputes are resolved through negotiations.
 
-Claims are sent in writing through the "Tech Support" section of the Offeror's Bot or to the email address <a href="mailto:info_slonprivacy@proton.me">info_slonprivacy@proton.me</a>
+Claims are sent in writing through the "Tech Support" section of the Offeror's Bot or to the email address <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>
 
 The period for considering a claim is 10 working days.
 
@@ -262,4 +262,4 @@ If an agreement is not reached, the dispute is considered in a court at the plac
 Individual Entrepreneur Evgeniy Sergeevich Solomein  
 OGRNIP 321774600494241  
 INN 421713484462  
-Email address: <a href="mailto:info_slonprivacy@proton.me">info_slonprivacy@proton.me</a>
+Email address: <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>
