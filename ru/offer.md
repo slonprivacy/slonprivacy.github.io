@@ -251,7 +251,7 @@ permalink: /ru/offer
 
 Споры решаются путем переговоров.
 
-Претензии направляются в письменной форме через Бот, раздел “Техподдержка” Оферента или по адресу электронной почты <a href="mailto:info_slonprivacy@proton.me">info_slonprivacy@proton.me</a>
+Претензии направляются в письменной форме через Бот, раздел “Техподдержка” Оферента или по адресу электронной почты <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>
 
 Срок рассмотрения претензии — 10 рабочих дней.
 
@@ -262,4 +262,4 @@ permalink: /ru/offer
 Индивидуальный предприниматель Соломеин Евгений Сергеевич  
 ОГРНИП 321774600494241  
 ИНН 421713484462  
-адрес эл. почты: <a href="mailto:info_slonprivacy@proton.me">info_slonprivacy@proton.me</a>
+адрес эл. почты: <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>
