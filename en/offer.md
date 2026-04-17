@@ -14,10 +14,16 @@ permalink: /en/offer
 1.2. This document is a public offer in accordance with Articles 435 and 437 of the Civil Code of the Russian Federation.
 
 1.3. Full and unconditional acceptance of this offer is recognized as the User performing one of the following actions:
+
 • registration or authorization in the Personal Account on the website <a href="https://my.slonprivacy.app/">https://my.slonprivacy.app/</a> (including via Telegram, Google, Yandex or other available methods);
+
+
 • purchasing any Subscription through the Telegram bot <a href="https://t.me/slon_privacy_bot">@slon_privacy_bot</a> or through the Personal Account;
+
 • payment for the selected tariff (including trial) by any available method;
+
 • receiving or using technical data (account credentials) to connect to the Service;
+
 • participation in the Referral Program (generation of a referral link, request for withdrawal of rewards and other actions in the Bot or Personal Account).
 
 1.4. Acceptance of the offer means the User’s full and unconditional acceptance of all terms of this Agreement.
@@ -57,8 +63,11 @@ permalink: /en/offer
 3.3. The Service is exclusively technical in nature and consists of providing access to the Offeror’s infrastructure.
 
 3.4. The Offeror does not provide:
+
 • access to specific Internet resources;
+
 • third-party content;
+
 • guarantees of bypassing access restrictions to Internet resources.
 
 3.5. The Service is not intended for use for the purpose of violating the legislation of the Russian Federation or the legislation of other states.
@@ -78,22 +87,35 @@ permalink: /en/offer
 <strong>5. Rights and Obligations of the Parties</strong>
 
 <strong>5.1 The Offeror undertakes</strong>
+
 • provide access to the Service in the volume of the selected tariff, taking into account the provisions of this Offer
+
 • take reasonable measures to ensure the functioning of the infrastructure
+
 • comply with the requirements of the legislation on personal data
 
 <strong>5.2 The Offeror has the right</strong>
+
 • change the technical parameters of the Service
+
 • change tariffs
+
 • limit the connection speed
+
 • limit the volume of traffic
+
 • suspend access in case of violation of the offer terms
+
 • transfer information to state authorities in cases provided for by the legislation of the Russian Federation
 
 <strong>5.3 The User undertakes</strong>
+
 • use the Service exclusively for lawful purposes
+
 • not to transfer Account credentials to third parties
+
 • independently ensure the security of their device
+
 • not to use the Service for the deliberate obtaining of access to prohibited information included in the registers of Roskomnadzor or the Ministry of Justice of the Russian Federation. Not to use the Services to obtain access to information whose distribution or access is restricted by a court decision or authorized body that has entered into legal force (including, but not limited to, the register of prohibited information of Roskomnadzor), as well as for searching, obtaining or distributing extremist materials or other prohibited information.
 
 <strong>6. Cost of Services and Payment Procedure</strong>
@@ -119,7 +141,9 @@ permalink: /en/offer
 7.4. The Referee does not receive any reward or bonuses under the Referral Program.
 
 7.5. Funds from the Referral balance may be used by the Referrer to:
+
 • pay for a Subscription for themselves in accordance with the current tariffs;
+
 • withdraw to their bank details (or other methods available in the bot) provided that the accumulated reward amount is at least 3000 (three thousand) rubles.
 
 7.6. Withdrawal of funds is carried out no more than once a month. A withdrawal request is formed through the corresponding section of the Telegram bot. The Offeror makes the payment within 10 (ten) business days from the moment of receiving correct details, confirmation of the amount, and verification of the Referees’ subscription connections.
@@ -127,9 +151,13 @@ permalink: /en/offer
 7.7. The User independently bears all tax obligations arising in connection with the receipt of rewards under the Referral Program (including personal income tax). The Offeror is not a tax agent and does not withhold taxes from the reward.
 
 7.8. It is prohibited to:
+
 • perform self-referral (attracting oneself, one’s other accounts, family members or persons under one’s control);
+
 • use spam, mass mailing, deception or other unfair methods of attracting Referees;
+
 • transfer one’s referral link/promo code for artificial inflation of rewards;
+
 • perform other illegal actions in accordance with the legislation of the Russian Federation.
 
 In case of detection of violations, the Offeror has the right to cancel the accrued reward in full or in part, block the Referral balance, suspend or terminate the User’s participation in the Referral Program, and also restrict access to the Service without refunding previously paid funds.
@@ -141,9 +169,13 @@ In case of detection of violations, the Offeror has the right to cancel the accr
 <strong>8. Liability of the Parties</strong>
 
 8.1. The Offeror is not liable for:
+
 • inability to use the Service due to reasons dependent on the User’s equipment;
+
 • actions of third parties;
+
 • interruptions in communication networks;
+
 • restrictions on access to Internet resources.
 
 8.2. The Offeror does not control or analyze the content of transmitted data. The Offeror is not liable for content transmitted or available through third-party resources, including websites, streaming platforms and social networks.
@@ -165,8 +197,11 @@ In case of detection of violations, the Offeror has the right to cancel the accr
 9.1. The processing of personal data is carried out in accordance with Federal Law No. 152-FZ “On Personal Data”.
 
 9.2. The Offeror processes the minimum necessary amount of data:
+
 • Telegram identifier, data obtained during authorization via Google and/or Yandex (email address, name, unique identifier and other data in the volume provided by the relevant services);
+
 • contact details (if any)
+
 • payment information
 
 9.3. The Offeror does not store the content of Users’ network traffic.
@@ -190,7 +225,135 @@ In case of detection of violations, the Offeror has the right to cancel the accr
 11.1. The Service is provided on an “as is” and “as available” basis.
 
 11.2. The Offeror does not guarantee:
+
 • uninterrupted operation of the service
+
 • absence of technical errors
+
 • compatibility with all devices
+
 • availability of any Internet resources
+
+Technical maintenance, interruptions caused by actions of State bodies and temporary failures are not considered a violation of the offer terms.
+
+11.3. Use of the Service is carried out by the User at their own risk.
+
+<strong>12. Acceptable Use Policy</strong>
+
+12.1. The User is prohibited from using the Service for:
+
+• network attacks
+
+• distribution of malicious software
+
+• sending spam
+
+• distribution of prohibited information
+
+• copyright infringement
+
+• unauthorized access to systems
+
+• violation of the legislation of the Russian Federation or other states;
+
+• other actions specified in this Offer
+
+The Offeror has the right to immediately restrict access upon detection of violations.
+
+<strong>13. Technical Limitations of the Service</strong>
+
+The Offeror has the right to:
+
+• limit connection speed
+
+• set traffic limits
+
+• disable server nodes
+
+• perform technical maintenance
+
+Such actions may be carried out without prior notice.
+
+<strong>14. Limitation on the Number of Devices</strong>
+
+14.1. The User has the right to use the Service simultaneously on no more than the number of devices provided for by the selected Tariff.
+
+14.2. The Offeror has the right to limit the number of connections upon detection of anomalous activity.
+
+<strong>15. Prohibition of Commercial Use</strong>
+
+The Service is provided exclusively for personal use.
+
+The User is not entitled to:
+
+• resell access
+
+• transfer access to third parties
+
+• use the service as part of a commercial product
+
+<strong>16. Right to Block Access</strong>
+
+The Offeror has the right to restrict or terminate the User’s access:
+
+• in case of violation of the offer
+
+• in case of suspicious activity
+
+• upon receipt of complaints (abuse reports)
+
+The Offeror is not obliged to disclose the reasons for blocking.
+
+<strong>17. Changes to the Infrastructure</strong>
+
+The Offeror has the right to:
+
+• change the number of servers
+
+• change IP addresses
+
+• change the server geography
+
+• disable or add locations
+
+Such changes are not considered a breach of the agreement.
+
+<strong>18. Restrictions on Access to Internet Resources</strong>
+
+The Offeror does not guarantee access to individual services, including:
+
+• streaming platforms
+
+• social networks
+
+• banking services
+
+• other Internet resources.
+
+Refusal of third-party services to serve Users of the Service is not a breach of the agreement on the part of the Offeror.
+
+<strong>19. Force Majeure</strong>
+
+19.1. The Parties are released from liability for non-fulfillment of obligations in the event of force majeure circumstances, including but not limited to: actions of state authorities, changes in legislation, failures in network infrastructure, emergencies.
+
+19.2. The Party for which it has become impossible to fulfill obligations must notify the other Party within a reasonable time.
+
+<strong>20. Dispute Resolution</strong>
+
+Disputes are resolved through negotiations.
+
+Claims are sent in writing through the Bot and/or in the Personal Account, in the “Technical Support” section of the Offeror or to the email address <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>
+
+The period for consideration of a claim is 10 business days.
+
+If no agreement is reached, the dispute is considered in court at the place of registration of the Offeror.
+
+<strong>21. Details</strong>
+
+Individual Entrepreneur Solomein Evgeny Sergeevich
+
+OGRNIP 321774600494241
+
+INN 421713484462
+
+email address: <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>
