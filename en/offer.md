@@ -9,7 +9,7 @@ permalink: /en/offer
 
 <strong>1. General Provisions</strong>
 
-1.1. This document is the official proposal (public offer) of the Individual Entrepreneur Solomein Evgeny Sergeevich, OGRNIP 321774600494241, INN 421713484462 (hereinafter referred to as the <strong>Offeror</strong>), to conclude a contract for the provision of paid services with any capable individual or legal entity (hereinafter referred to as the <strong>User</strong>).
+1.1. This document is the official proposal (public offer) of the (hereinafter referred to as the <strong>Offeror</strong>), to conclude a contract for the provision of paid services with any capable individual or legal entity (hereinafter referred to as the <strong>User</strong>).
 
 1.2. This document is a public offer in accordance with Articles 435 and 437 of the Civil Code of the Russian Federation.
 
@@ -349,11 +349,5 @@ The period for consideration of a claim is 10 business days.
 If no agreement is reached, the dispute is considered in court at the place of registration of the Offeror.
 
 <strong>21. Details</strong>
-
-Individual Entrepreneur Solomein Evgeny Sergeevich
-
-OGRNIP 321774600494241
-
-INN 421713484462
 
 email address: <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>
