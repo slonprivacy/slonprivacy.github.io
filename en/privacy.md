@@ -9,7 +9,7 @@ permalink: /en/privacy
 
 <strong>1. General Provisions</strong>
 
-1.1. This Privacy Policy (hereinafter referred to as the “Policy”) defines the procedure and conditions for processing personal data that the Offeror (Individual Entrepreneur Solomein Evgeny Sergeevich, OGRNIP 321774600494241, INN 421713484462, contact email: <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>) receives from Users when using the Telegram bot <a href="https://t.me/slon_privacy_bot">@slon_privacy_bot</a> (hereinafter referred to as the “Bot”), the Personal Account on the website <a href="https://my.slonprivacy.app/">https://my.slonprivacy.app</a> (hereinafter referred to as the “Account”), and the provision of Services under the public offer agreement (hereinafter referred to as the “Offer”).
+1.1. This Privacy Policy (hereinafter referred to as the “Policy”) defines the procedure and conditions for processing personal data that the Offeror (contact email: <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>) receives from Users when using the Telegram bot <a href="https://t.me/slon_privacy_bot">@slon_privacy_bot</a> (hereinafter referred to as the “Bot”), the Personal Account on the website <a href="https://my.slonprivacy.app/">https://my.slonprivacy.app</a> (hereinafter referred to as the “Account”), and the provision of Services under the public offer agreement (hereinafter referred to as the “Offer”).
 
 1.2. This Policy is developed in accordance with the requirements of Federal Law No. 152-FZ dated July 27, 2006 “On Personal Data” and other regulatory acts of the Russian Federation in the field of personal data protection.
 
@@ -161,8 +161,4 @@ The Offeror takes reasonable measures to protect Users’ personal data, but can
 
 <strong>12. Details</strong>
 
-Individual Entrepreneur  
-Solomein Evgeny Sergeevich  
-OGRNIP 321774600494241  
-INN 421713484462  
 email: <a href="mailto:info@slonprivacy.app">info@slonprivacy.app</a>
